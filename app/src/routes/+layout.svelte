@@ -1,8 +1,9 @@
-<style lang="postcss">
-  * {
-    font-family: Arial, Helvetica, sans-serif;
-  }
+<script lang="ts">
+  import "../vars.css"
+  import "../app.css"
+</script>
 
+<style lang="postcss">
   main {
     margin: 0 auto;
     max-width: 660px;

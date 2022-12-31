@@ -1,0 +1,25 @@
+* {
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+@media (prefers-color-scheme: dark) {
+	html,
+	body {
+		background-color: var(--grey);
+	}
+
+	* {
+		color: white;
+	}
+}
+
+@media (prefers-color-scheme: light) {
+	html,
+	body {
+		background-color: white;
+	}
+
+	* {
+		color: black;
+	}
+}
