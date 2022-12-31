@@ -4,7 +4,7 @@
 
 <svelte:head><title>The Theory</title></svelte:head>
 
-# The Theory
+# The Theory ☀️
 
 <Divider />
 
