@@ -1,5 +1,6 @@
 <script lang="ts">
   import Divider from "$lib/components/Divider.svelte"
+  import Head from "$lib/components/Head.svelte"
 </script>
 
 <style lang="postcss">
@@ -9,7 +10,7 @@
   }
 </style>
 
-<svelte:head><title>The Theory ☀️</title></svelte:head>
+<Head title="The Theory ☀️" description="Friendly Strength examines culture through the lens of the Sekhmet Hypothesis." />
 
 # The Theory ☀️
 
