@@ -1,6 +1,12 @@
+<script lang="ts">
+  import Divider from "$lib/components/Divider.svelte"
+</script>
+
 # The Theory
 
-The _Sekhmet Hypothesis_ is a theory that attempts to explain cyclical changes in popular culture through 11 year cycles in the sun.
+<Divider />
+
+The _Sekhmet Hypothesis_ attempts to explain cyclical changes in popular culture through 11 year cycles in the sun.
 
 The theory goes that every 11 years, the sun shifts and triggers cultural change. The four different phases of culture, known as “life scripts” are:
 
