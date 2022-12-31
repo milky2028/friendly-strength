@@ -2,7 +2,7 @@
   import Divider from "$lib/components/Divider.svelte"
 </script>
 
-<svelte:head><title>The Theory</title></svelte:head>
+<svelte:head><title>The Theory ☀️</title></svelte:head>
 
 # The Theory ☀️
 
