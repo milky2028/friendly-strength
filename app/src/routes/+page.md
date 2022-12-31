@@ -2,6 +2,13 @@
   import Divider from "$lib/components/Divider.svelte"
 </script>
 
+<style lang="postcss">
+  ul {
+    list-style: none;
+    padding: 0.5rem;
+  }
+</style>
+
 <svelte:head><title>The Theory ☀️</title></svelte:head>
 
 # The Theory ☀️
