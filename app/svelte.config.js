@@ -1,5 +1,5 @@
 import adapter from '@sveltejs/adapter-static';
-import { vitePreprocess } from '@sveltejs/kit/vite';
+import preprocess from 'svelte-preprocess';
 import { mdsvex } from 'mdsvex';
 import nested from 'postcss-nested';
 
@@ -11,7 +11,7 @@ const config = {
 	// for more information about preprocessors
 	extensions: ['.svelte', '.md'],
 	preprocess: [
-		vitePreprocess({
+		preprocess({
 			postcss: {
 				plugins: [nested()]
 			}
