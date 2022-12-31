@@ -1,5 +1,3 @@
-<script lang="ts"></script>
-
 # The Theory
 
 The _Sekhmet Hypothesis_ is a theory that attempts to explain cyclical changes in popular culture through 11 year cycles in the sun.
