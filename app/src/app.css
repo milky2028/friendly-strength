@@ -12,14 +12,3 @@
 		color: white;
 	}
 }
-
-@media (prefers-color-scheme: light) {
-	html,
-	body {
-		background-color: white;
-	}
-
-	* {
-		color: black;
-	}
-}
