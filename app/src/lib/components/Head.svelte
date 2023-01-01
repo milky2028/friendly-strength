@@ -10,18 +10,18 @@
 
   <!-- <meta name="theme-color" content={themeColor} /> -->
 
-  <meta itemprop="name" content={title} />
+  <meta itemprop="name" content="Friendly Strength - {title}" />
   <meta itemprop="description" content={description} />
   <!-- <meta itemprop="image" content={imageUrl} /> -->
 
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content={title} />
+  <meta name="twitter:title" content="Friendly Strength - {title}" />
   <meta name="twitter:description" content={description} />
   <meta name="twitter:creator" content="@dirtcake1" />
   <!-- <meta name="twitter:image" content={imageUrl} /> -->
   <!-- <meta name="twitter:image:alt" content="{fullName} products" /> -->
 
-  <meta property="og:title" content={title} />
+  <meta property="og:title" content="Friendly Strength - {title}" />
   <meta property="og:description" content={description} />
   <!-- <meta property="og:image" content={imageUrl} /> -->
   <meta property="og:image:width" content="1200" />
