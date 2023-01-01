@@ -1,7 +1,7 @@
 <style lang="postcss">
   div {
     height: 2px;
-    background-color: black;
+    background-color: var(--grey);
 
     @media (prefers-color-scheme: dark) {
       background-color: white;
