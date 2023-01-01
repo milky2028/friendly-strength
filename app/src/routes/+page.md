@@ -32,5 +32,3 @@ None of this is based in actual science, especially the sun stuff, but it’s fu
 The current sun cycle began December 21st, 2012 cause duh when else would it have begun. 11 years later, we're entering 2023 on the cusp of a new cycle. Due to the thinning of the ozone layer and the internet (I guess), it’s becoming increasingly difficult to determine which life script phase just ended and which one is coming next. By dissecting some of the media and the people around us, perhaps we’ll be able to get a better perspective.
 
 The goal is to pick a person, place, or thing and attempt to choose which life script that thing embodies, then give a short explanation.
-
-To Be Continued...
