@@ -36,5 +36,5 @@
 </style>
 
 <nav>
-  <a href="/menu"><strong>MENU</strong></a>
+  <a href="/menu"><strong>CONTENT</strong></a>
 </nav>
