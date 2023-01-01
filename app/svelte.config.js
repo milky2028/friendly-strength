@@ -2,6 +2,7 @@ import adapter from '@sveltejs/adapter-static';
 import preprocess from 'svelte-preprocess';
 import { mdsvex } from 'mdsvex';
 import nested from 'postcss-nested';
+import customMedia from 'postcss-custom-media';
 
 const BUILD_DIR = '../public';
 
@@ -13,7 +14,7 @@ const config = {
 	preprocess: [
 		preprocess({
 			postcss: {
-				plugins: [nested()]
+				plugins: [nested(), customMedia()]
 			}
 		}),
 		mdsvex({ extensions: ['.md'] })
