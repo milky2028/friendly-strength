@@ -14,7 +14,19 @@ const config = {
 	preprocess: [
 		preprocess({
 			postcss: {
-				plugins: [nested(), customMedia()]
+				plugins: [
+					nested(),
+					customMedia({
+						importFrom: [
+							{
+								customMedia: {
+									'--tablet': '(max-width: 834px)',
+									'--phone': '(max-width: 432px)'
+								}
+							}
+						]
+					})
+				]
 			}
 		}),
 		mdsvex({ extensions: ['.md'] })
